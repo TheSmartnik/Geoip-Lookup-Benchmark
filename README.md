@@ -13,6 +13,7 @@ Benchmark test was done with [benchmark-ips](https://github.com/evanphx/benchmar
 * [maxmind_geoip2](https://github.com/da4nik/geoip2)
 
 ## Test result
+> IP version doesn't impact performance
 
 > It was apparent, that maxminddb would be the slowest.
 > Howwever, it has the best API, IMO.
